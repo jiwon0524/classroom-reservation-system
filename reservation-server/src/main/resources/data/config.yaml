@@ -1,0 +1,7 @@
+openTime: "09:00"
+closeTime: "22:00"
+checkInOpenMinutes: 30
+checkInGraceMinutes: 10
+changeRequestDeadlineMinutes: 60
+postUseCheckHours: 24
+autoCancelStudentNoShow: true

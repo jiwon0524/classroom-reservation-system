@@ -1,0 +1,29 @@
+classrooms:
+  - id: ROOM-0908
+    building: 정보관
+    floor: 9
+    roomNo: "908"
+    type: CLASSROOM
+    capacity: 50
+    active: true
+  - id: ROOM-0911
+    building: 정보관
+    floor: 9
+    roomNo: "911"
+    type: LAB
+    capacity: 40
+    active: true
+  - id: ROOM-0912
+    building: 정보관
+    floor: 9
+    roomNo: "912"
+    type: CLASSROOM
+    capacity: 45
+    active: true
+  - id: ROOM-0913
+    building: 정보관
+    floor: 9
+    roomNo: "913"
+    type: SEMINAR_ROOM
+    capacity: 30
+    active: true

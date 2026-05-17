@@ -1,0 +1,13 @@
+users:
+  - id: student01
+    name: 학생1
+    role: STUDENT
+    department: 컴퓨터공학과
+  - id: professor01
+    name: 교수1
+    role: PROFESSOR
+    department: 컴퓨터공학과
+  - id: admin01
+    name: 관리자1
+    role: ADMIN
+    department: 공학교육혁신센터

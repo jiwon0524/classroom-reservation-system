@@ -1,0 +1,17 @@
+facilities:
+  - classroomId: ROOM-0908
+    outletCount: 18
+    chargeableSeatCount: 12
+    rentableCharger: true
+    wheelchairAccessible: true
+    projectorStatus: NORMAL
+    pcStatus: NORMAL
+    outletLocationDescription: 앞쪽 벽면 4개, 좌우 벽면 각 7개
+  - classroomId: ROOM-0911
+    outletCount: 24
+    chargeableSeatCount: 18
+    rentableCharger: true
+    wheelchairAccessible: true
+    projectorStatus: NORMAL
+    pcStatus: WARNING
+    outletLocationDescription: 실습 테이블 하단
